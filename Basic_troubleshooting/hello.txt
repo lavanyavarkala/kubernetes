@@ -1,3 +1,3 @@
 testing
 feature commit1
-featire commit2
+feature commit2
